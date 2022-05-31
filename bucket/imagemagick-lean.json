@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-portable-Q16-HDRI-x64.zip",
-            "hash": "e69c1bc8ec028a010c991167e37531688d2e508f70cd81565aaa195cebea2078"
+            "hash": "dabffdb5f4fa83b88cbb2c4eb339db4ffecb646cad63870c93d4858ec501feaa"
         },
         "32bit": {
             "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-portable-Q16-HDRI-x86.zip",
-            "hash": "140107404dc176234cc40debe2c1138090ade8f36e9580c0a0db8f00489595be"
+            "hash": "35ca42943cc145d135deaa2b7e3da95ec8521fe39cc43aee0406869217b042bb"
         }
     },
     "bin": [

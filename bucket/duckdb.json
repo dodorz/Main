@@ -1,16 +1,16 @@
 {
-    "version": "0.3.2",
+    "version": "0.3.4",
     "description": "A high-performance embeddable SQL OLAP database management system",
     "homepage": "https://duckdb.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/duckdb/duckdb/releases/download/v0.3.2/duckdb_cli-windows-amd64.zip",
-            "hash": "faa2405394eec69adf8e8bdf35353775e2755f9a9e08a7e620398d40f5e6598b"
+            "url": "https://github.com/duckdb/duckdb/releases/download/v0.3.4/duckdb_cli-windows-amd64.zip",
+            "hash": "4c390902c5047f16f5782ee88e5fa27afbfc3c8f8f65902dc61506dc9935714a"
         },
         "32bit": {
-            "url": "https://github.com/duckdb/duckdb/releases/download/v0.3.2/duckdb_cli-windows-i386.zip",
-            "hash": "0330158e5fc11f1e40e51535b36c7260afe16bc1e5cff344559bc9f418bcc2b4"
+            "url": "https://github.com/duckdb/duckdb/releases/download/v0.3.4/duckdb_cli-windows-i386.zip",
+            "hash": "4c6e128aefd3f6b2b3b1c7cb038a9f5d0ec45424902058dc691d5ba83a17e202"
         }
     },
     "bin": "duckdb.exe",

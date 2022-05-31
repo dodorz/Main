@@ -1,5 +1,5 @@
 {
-    "version": "1.18",
+    "version": "1.18.2",
     "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
     "homepage": "https://golang.org",
     "license": "BSD-3-Clause",
@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://dl.google.com/go/go1.18.windows-amd64.zip",
-            "hash": "65c5c0c709a7ca1b357091b10b795b439d8b50e579d3893edab4c7e9b384f435"
+            "url": "https://dl.google.com/go/go1.18.2.windows-amd64.zip",
+            "hash": "41fc44109c39a98e0c3672989ac5ad205cbb5768067e099dc4fb2b75cba922cf"
         },
         "32bit": {
-            "url": "https://dl.google.com/go/go1.18.windows-386.zip",
-            "hash": "e23fd2a0509690fe7e63b2b1bcd4c39ed57b46ccde76f35dc0d16ca7fdbc5aaa"
+            "url": "https://dl.google.com/go/go1.18.2.windows-386.zip",
+            "hash": "ac190f91bbdaae7db993b0f12eea59eec2b3b92e1e9d8b068c565fc49f7ec9a8"
         }
     },
     "extract_dir": "go",

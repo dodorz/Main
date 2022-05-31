@@ -1,15 +1,15 @@
 {
-    "version": "105",
+    "version": "108",
     "description": "Compiler infrastructure and toolchain library for WebAssembly",
     "homepage": "https://github.com/WebAssembly/binaryen",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/WebAssembly/binaryen/releases/download/version_105/binaryen-version_105-x86_64-windows.tar.gz",
-            "hash": "270559c5a6edfaa46b385884beabeb5300fd42c427f00993c8759e1d76ba87fa"
+            "url": "https://github.com/WebAssembly/binaryen/releases/download/version_108/binaryen-version_108-x86_64-windows.tar.gz",
+            "hash": "32f6ca27049d69647dd837ea2a4990cf0c2da0ef91c346ea31c02a0e2b9b3915"
         }
     },
-    "extract_dir": "binaryen-version_105",
+    "extract_dir": "binaryen-version_108",
     "bin": [
         "bin\\wasm2js.exe",
         "bin\\wasm-as.exe",

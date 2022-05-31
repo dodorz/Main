@@ -1,16 +1,16 @@
 {
-    "version": "2.25",
+    "version": "2.27",
     "description": "A graphics and text mode web browser.",
     "homepage": "http://links.twibright.com/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "http://links.twibright.com/download/binaries/win32/Links-2.25-64bit-install.exe#/dl.7z",
-            "hash": "440ef02578cf8fad058c83caccbab545f153ac068a9e00f98025e5b6b2bff963"
+            "url": "http://links.twibright.com/download/binaries/win32/Links-2.27-64bit-install.exe#/dl.7z",
+            "hash": "54f1b9155001f56ffa646e70d6793a8c20462095a9e2820c906adcccc019ac10"
         },
         "32bit": {
-            "url": "http://links.twibright.com/download/binaries/win32/Links-2.25-32bit-install.exe#/dl.7z",
-            "hash": "fb4247842691baa801c560b3cae9345ab911be0e49ab89a9ef550c1b3b0cc6c7"
+            "url": "http://links.twibright.com/download/binaries/win32/Links-2.27-32bit-install.exe#/dl.7z",
+            "hash": "7cc314e5a080a38a6917bee8da12283d1a02646567bcdfccf66c4b913bfa552e"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall.exe\" -Recurse -Force",
